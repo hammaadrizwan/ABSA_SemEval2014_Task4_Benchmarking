@@ -1,0 +1,11 @@
+Model A,Model B,n (paired),t-stat,p (raw),p (Bonferroni),Significant,Cohen's d,Effect
+TF-IDF+SVM,FastText,3,8.0,0.015268,0.152681,✗,4.6188,large
+TF-IDF+SVM,DistilBERT,3,-14.4418,0.00476,0.047605,✓,-8.338,large
+TF-IDF+SVM,ALBERT,3,-13.1668,0.005719,0.057188,✗,-7.6019,large
+TF-IDF+SVM,MiniLM,3,-7.8525,0.015833,0.158332,✗,-4.5337,large
+FastText,DistilBERT,3,-12.8162,0.006033,0.060331,✗,-7.3994,large
+FastText,ALBERT,3,-18.5455,0.002895,0.028949,✓,-10.7073,large
+FastText,MiniLM,3,-12.6489,0.006192,0.061922,✗,-7.3029,large
+DistilBERT,ALBERT,3,-2.7374,0.111558,1.0,✗,-1.5805,large
+DistilBERT,MiniLM,3,0.6687,0.57255,1.0,✗,0.3861,small
+ALBERT,MiniLM,3,8.9217,0.012331,0.123314,✗,5.151,large
