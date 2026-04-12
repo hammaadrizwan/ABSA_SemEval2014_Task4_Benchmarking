@@ -66,9 +66,3 @@ Energy consumption is tracked using **CodeCarbon**, capturing:
 This project is released under the MIT License.
 
 ---
-
-## 📬 Contact
-
-For questions or collaborations, please open an issue or contact the repository maintainer.
-
----
