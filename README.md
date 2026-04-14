@@ -57,7 +57,6 @@ Energy consumption is tracked using **CodeCarbon**, capturing:
 ## 📈 Key Contributions
 
 * First benchmarking study involving multiple ABSA systems evaluated on energy emission during training, overall model accuracy, and inference latency.
-* This paper supports the findings mentioned in this paper (insert DOI here)
 
 ---
 
